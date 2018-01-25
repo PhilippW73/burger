@@ -1,9 +1,9 @@
 -- Insert a set of records.
 INSERT INTO burgers (burger_name, devoured) 
-VALUES ("Chicken Burger", TRUE);
+VALUES ("Chicken Burger", FALSE);
 
 INSERT INTO burgers (burger_name, devoured) 
-VALUES ("Angus Beef Burger", TRUE);
+VALUES ("Angus Beef Burger", FALSE);
 
 INSERT INTO burgers (burger_name, devoured) 
-VALUES ("Fish Burger", TRUE);
+VALUES ("Fish Burger", FALSE);
