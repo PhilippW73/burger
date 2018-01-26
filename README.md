@@ -7,6 +7,7 @@ Eat Da Burger is a full stack web app featuring the following technologies / tec
 * Handlebars
 * ORM
 * Body-Parser
+* Heroku
 
 
 ## Functionality
