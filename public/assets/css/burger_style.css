@@ -1,3 +1,7 @@
+body {
+	background-color: orange;
+}
+
 li {
   padding: 5px;
   margin: 5px;
@@ -16,4 +20,25 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+.create-form {
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+#pic {
+	text-align: center;
+	height: 15px,
+	width: 515Px;
+	text-align: center;
+	margin-left: 500px;
+}
+
+ul {
+  list-style-type: none;
 }
